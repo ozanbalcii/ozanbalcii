@@ -7,7 +7,7 @@
 
 ### 📩 Connect with me:
 
-[<img align="left" alt="linkedin"  width="24px" src="https://www.linkedin.com/in/ozanbalci98/" />][linkedin]
+[<img align="left" alt="linkedin | LinkedIn" width="24px src="https://www.linkedin.com/in/ozanbalci98/" />][linkedin]
 
 
 
