@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on JavaScript, NodeJs, React, HTML-CSS
 - 🌱 I’m currently learning React
 - 📫 How to reach me: Linkedin: ozanbalci98
--  ORM
 
  ### ⚙️Languages and Tools 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
