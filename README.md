@@ -6,5 +6,5 @@
 
 <!-- ### Languages and Tools:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) -->
-![ozanbalcii's github stats](https://github-readme-stats.vercel.app/api?username=mustafacagri&show_icons=true&theme=radical)
+![ozanbalcii's github stats](https://github-readme-stats.vercel.app/api?username=ozanbalcii&show_icons=true&theme=radical)
 
