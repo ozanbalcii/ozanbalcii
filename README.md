@@ -19,8 +19,8 @@
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 <!-- ![]() -->
 
-![ozanbalcii's github stats](https://github-readme-stats.vercel.app/api?username=ozanbalcii&show_icons=true&theme=radical)
+![ozanbalcii's github stats](https://github-readme-stats.vercel.app/api?username=ozanbalcii&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozanbalcii&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozanbalcii&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+
 
 
