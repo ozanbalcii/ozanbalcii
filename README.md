@@ -1,7 +1,7 @@
 ###  Hi there 👋, I'm Ozan
 
 - 🔭 I’m currently working on JavaScript, NodeJs, React, HTML-CSS
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React-Redux
 - 📫 How to reach me: Linkedin: ozanbalci98
 
  ### ⚙️Languages and Tools 
