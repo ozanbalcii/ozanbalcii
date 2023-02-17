@@ -17,6 +17,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-563D7C?style=for-the-badge&logo=redux&logoColor=white) 
 <!-- ![]() -->
 
 ![ozanbalcii's github stats](https://github-readme-stats.vercel.app/api?username=ozanbalcii&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozanbalcii&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
