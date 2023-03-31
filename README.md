@@ -1,6 +1,6 @@
 ###  Hi there 👋, I'm Ozan
 
-- 🔭 I’m currently working on JavaScript, NodeJs, React, HTML-CSS
+- 🔭 I’m currently working on JavaScript, NodeJs, React-Redux, NextJs, ExpressJs, HTML-CSS
 - 📫 How to reach me: Linkedin: ozanbalci98 or Twitter: ozan_balciii
 
  ### ⚙️Languages and Tools 
