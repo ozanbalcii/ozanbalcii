@@ -1,7 +1,10 @@
-###  Hi there 👋, I'm Ozan
+###  Hi there, I'm Ozan
 
-- 🔭 I’m currently working on JavaScript, NodeJs, React-Redux, NextJs, ExpressJs, HTML-CSS
+- I am currently working on a stock marketing project. (freelance)
+
+- 🔭 I am currently working on JavaScript, NodeJs, React-Redux, NextJs, ExpressJs and HTML-CSS technologies.
 - 📫 How to reach me: Linkedin: ozanbalci98 or Twitter: ozan_balciii
+
 
  ### ⚙️Languages and Tools 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -21,7 +24,3 @@
 <!-- ![]() -->
 
 ![ozanbalcii's github stats](https://github-readme-stats.vercel.app/api?username=ozanbalcii&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozanbalcii&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-
-
-
-
