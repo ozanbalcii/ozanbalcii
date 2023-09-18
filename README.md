@@ -1,6 +1,6 @@
 ###  Hi there, I'm Ozan
 
-- I am currently working on a stock marketing project. (freelance)
+-  I am currently working as a front-end developer.
 
 - 🔭 I am currently working on React-Redux, Firebase, NextJs, Nodejs and HTML-CSS(Tailwind-Bootstrap) technologies.
 - 📫 How to reach me: Linkedin: ozanbalci98 or Twitter: ozan_balciii
