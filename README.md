@@ -1,19 +1,19 @@
 ###  Hi there, I'm Ozan
 
--  I am currently working as a front-end developer.
+-  I'm currently working as a full-stack developer.
 
-- 🔭 I am currently working on React-Redux, Firebase, NextJs, Nodejs and HTML-CSS(Tailwind-Bootstrap) technologies.
+- 🔭 I am currently working on JavaScript, React-Redux, Nodejs, MySQL, MongoDB and Tailwind-Bootstrap technologies.
 - 📫 How to reach me: Linkedin: ozanbalci98 or Twitter: ozan_balciii
 
 
  ### ⚙️Languages and Tools 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Google%20Firebase-000000?style=for-the-badge&logo=firebase)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-563D7C?style=for-the-badge&logo=redux&logoColor=white) 
 ![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js-&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234ea94b.svg?style=for-the-badge&logo=mysql&logoColor=white))
 ![TailwindCss](https://img.shields.io/badge/tailwind-%234ea94b.svg?style=for-the-badge&logo=tailwind&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
